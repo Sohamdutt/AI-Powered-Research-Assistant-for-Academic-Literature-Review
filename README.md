@@ -1,7 +1,3 @@
-Based on the contents of your project documentation, here's a sample README file for your AI-powered research assistant project:
-
----
-
 # AI-Powered Research Assistant for Academic Literature Review
 
 ## Overview
