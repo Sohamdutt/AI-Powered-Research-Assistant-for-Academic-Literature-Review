@@ -74,7 +74,7 @@ Ensure the following dependencies are installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository.git
+    git clone https://github.com/Sohamdutt/AI-Powered-Research-Assistant-for-Academic-Literature-Review.git
     cd your-repository
     ```
 
