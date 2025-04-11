@@ -113,4 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README summarizes your project, outlining the problem statement, objectives, technology stack, architecture, and usage details to provide an overview for potential users or collaborators. Let me know if you'd like to add or modify anything!
+This README summarizes my project, outlining the problem statement, objectives, technology stack, architecture, and usage details to provide an overview for potential users or collaborators.
